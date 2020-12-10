@@ -15,10 +15,15 @@
     }
   ],
   "tasks": [
+    { "id": 1, "taskName": "Task_1", "timeSpent": 2.5, "projectId": 1 },
     { "id": 2, "taskName": "Task_2", "timeSpent": 4.5, "projectId": 1 },
-    { "id": 2, "taskName": "Task_2", "timeSpent": 4.5, "projectId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 3, "taskName": "Task_3", "timeSpent": 3, "projectId": 1 },
+    { "id": 4, "taskName": "Task_4", "timeSpent": 6.5, "projectId": 2 },
+    { "id": 5, "taskName": "Task_5", "timeSpent": 9, "projectId": 2 },
+    { "id": 6, "taskName": "Task_6", "timeSpent": 7.5, "projectId": 2 },
+    { "id": 7, "taskName": "Task_7", "timeSpent": 1.5, "projectId": 2 },
+    { "id": 8, "taskName": "Task_8", "timeSpent": 5.5, "projectId": 2 },
+    { "id": 9, "taskName": "Task_9", "timeSpent": 10, "projectId": 3 },
+    { "id": 10, "taskName": "Task_10", "timeSpent": 3, "projectId": 3 }
+  ]
 }
