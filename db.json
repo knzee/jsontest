@@ -1,12 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "projects":
+  [
+    {
+      "id": 1,
+      "projectName": "Project_1"
+    },
+    {
+      "id": 2,
+      "projectName": "Project_2"
+    },
+    {
+      "id": 3,
+      "projectName": "Project_3"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "tasks": [
+    { "id": 2, "taskName": "Task_2", "timeSpent": 4.5, "projectId": 1 },
+    { "id": 2, "taskName": "Task_2", "timeSpent": 4.5, "projectId": 1 }
   ],
   "profile": {
     "name": "typicode"
